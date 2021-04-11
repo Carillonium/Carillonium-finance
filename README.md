@@ -22,5 +22,5 @@ Contract ownership Renounced
  
  Thanks 
  
- WELCOME TO CARILLONIUM WORLD
+ WELCOME TO CARILLONIUM WORLD.
  
